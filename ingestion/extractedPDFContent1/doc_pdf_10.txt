@@ -1,0 +1,661 @@
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+IN THE HIGH COURT OF KARNATAKA AT BENGALURU 
+ 
+DATED THIS THE 19TH DAY OF AUGUST, 2021 
+ 
+PRESENT 
+ 
+THE HON'BLE Mr. JUSTICE ARAVIND KUMAR  
+ 
+AND 
+ 
+THE HON'BLE Mr. JUSTICE PRADEEP SINGH YERUR 
+ 
+COMMERCIAL APPEAL No.135 OF 2021 
+ 
+BETWEEN:  
+ 
+M/S.AXIS BANK LTD., 
+AXIS HOUSE, C-2, WADIA 
+INTERNATIONAL CENTRE 
+PANDURANG BUDHKAR MARG  
+WORLI, MUMBAI – 400 025 
+ 
+REP. BY ITS SENIOR MANAGER 
+MR.CHENGAPPA P.T 
+AGED ABOUT 40 YEARS 
+AXIS BANK LIMITED 
+BASAVANAGUDI BRANCH 
+NO.41, SUBHASHRI PRIDE 
+SOUTH END ROAD 
+BASAVANAGUDI 
+BENGALURU -560 004 
+ 
+ 
+ 
+    ... APPELLANT 
+ 
+(BY SRI UNNIKRISHNAN M., ADVOCATE) 
+ 
+AND: 
+ 
+1. 
+BANGALORE METROPOLITAN TRANSPORT  
+ 
+CORPORATION LIMITED (BMTC) 
+ 
+CENTRAL OFFICES, K.H.ROAD 
+ 
+SHANTHINAGAR 
+ 
+BENGALURU – 560 027 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+REPRESENTED BY ITS  
+MANAGING DIRECTOR 
+ 
+2. 
+THE CHIEF TRAFFIC MANAGER (O) 
+ 
+PROJECT MANAGER 
+ 
+BENGALURU METROPOLITAN  
+TRANSPORT  CORPORATION (BMTC) 
+ 
+CENTRAL OFFICES 
+ 
+K.H.ROAD, SHANTHINAGAR 
+ 
+BENGALURU – 560 027 
+ 
+3. 
+THE DIRECTOR (FINANCE) 
+ 
+FA, CO, BRANDED SMART CARD PROJECT 
+ 
+BENGALURU METROPOLITAN  
+TRANSPORT CORPORATION (BMTC) 
+ 
+CENTRAL OFFICES 
+K.H.ROAD, SHANTHINAGAR 
+ 
+BENGALURU – 560 027 
+ 
+ 
+…. RESPONDENTS  
+***** 
+ 
+THIS COMMERCIAL APPEAL IS FILED UNDER SECTION 13 
+1(A) OF THE COMMERCIAL COURTS ACT R/W SECTION 37(1)(B) 
+OF THE ARBITRATION & CONCILIATION ACT, 1996 PRAYING TO 
+SET ASIDE THE ORDER DATED 30.06.2021 IN COM.AA. 
+NO.6/2020 PASSED BY LXXXII ADDITIONAL CITY CIVIL AND 
+SESSSIONS 
+JUDGE 
+AT 
+BENGALURU 
+AT 
+ANNEXURE-A 
+DISMISSING THE PETITION FILED BY THE APPELLANT UNDER 
+SECTION 94 OF THE ARBITRATION AND CONCILIATION ACAT, 
+1996 AND ETC. 
+ 
+THIS APPEAL COMING ON FOR ADMISSION THIS DAY, 
+ARAVIND KUMAR J., DELIVERED THE FOLLOWING: 
+ 
+J U D G M E N T 
+ 
+Heard 
+Sri 
+Unnikrsihnan 
+M., 
+learned 
+counsel 
+appearing for appellant.  Perused the records. 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+2.  This appeal under Section 37 of the Arbitration 
+and Conciliation Act, 1996 (for short ‘Arbitration Act’) is 
+filed 
+by 
+the 
+plaintiff 
+challenging 
+the 
+order 
+dated 
+30.06.2021 passed in Com.AA.No.6/2020 whereunder 
+petition filed under Section 9(ii)(c)(d)(e) of the Arbitration 
+Act came to be dismissed. Prayer which came to be sought 
+for by the appellant before the Court below in the petition 
+filed for grant of interim measures reads: 
+“a) To issue an ad interim order of injunction 
+restraining 
+the 
+Respondents 
+from 
+appointing any financial institution or any 
+Service Provider for Smart Card Based 
+Fare Collection System Project till an 
+Arbitrator is appointed to adjudicate the 
+disputes between the parties. 
+b) 
+To 
+direct 
+the 
+Respondents 
+for 
+the 
+continuation of the use of Smart Cards by 
+the customers of the Petitioner and since 
+the Agreement, Dated:28.02.2014 has not 
+been 
+terminated 
+in 
+terms 
+of 
+the 
+procedures as agreed between the parties 
+in the same. 
+ 
+ 
+ 
+ 
+4 
+ 
+ 
+c)  To direct the Respondents to maintain / 
+keep the Bank Guarantee amount of Rs. 
+75 Lakhs in a Fixed Deposit in IndusInd 
+Bank Trade Finance Department or any 
+other Nationalised bank in order to protect 
+the interest of the Petitioner till the 
+disposal of the Arbitral Proceedings.” 
+ 
+3. 
+On 
+service 
+of 
+notice 
+before 
+trial 
+Court, 
+respondents appeared and filed detailed statement of 
+objections vide Annexure-W denying averments made in 
+the petition except to the extent expressly admitted 
+thereunder. As noticed hereinabove, learned trial Judge 
+has considered rival contentions and by impugned order 
+dismissed the application.  Hence, this appeal.   
+ 
+4.  Appellant is a Company incorporated under the 
+Companies Act, 1956 and carrying on business of Banking 
+and having several branches across the country including 
+one at Bengaluru.  The first respondent floated a tender in 
+March, 2013 calling upon the proposed bidders to submit 
+their bids in order to set up and implement Intelligent 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+Transport System and to facilitate the collection of bus 
+fares by introducing smart cards to the passengers/ 
+traveling public.  In the tender so floated in March, 2013, 
+appellant was selected as a “Financial Institution” and a 
+letter of intent dated 28.11.2013 came to be issued.  Thus, 
+appellant was chosen as Nodal Bank for Bangalore 
+Metropolitan Transport Corporation (for short ‘BMTC’) to 
+implement the Smart Card Fare Collection System. The 
+terms and conditions as agreed to thereunder between the 
+parties is said to have not been adhered to by the 
+appellant and on account of request made by respondents 
+to implement Smart Card System by communication dated 
+17.03.2018, it was alleged by respondents that appellant 
+was not able to take up the development of system and 
+facilitate the issue of several modules like student pass 
+conversion, monthly pass, daily pass etc. It was the 
+grievance of the respondents that failure on the part of the 
+appellant to implement the project as envisaged under the 
+agreed terms resulted in respondents being compelled to 
+avail other Service Providers on ad-hoc basis and this  
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+resulted 
+in 
+a 
+show-cause 
+notice 
+being 
+issued 
+by 
+respondents to the appellant to terminate the contract and 
+by communication dated 22.08.2019, the contract is said 
+to have been terminated.  At that juncture, appellant 
+herein filed a petition before the learned Single Judge of 
+this Court under Section 11(6) of the Arbitration Act 
+seeking for appointment of an Arbitrator for adjudicating 
+the disputes arising out of the Master Service Agreement 
+dated 28.02.2014 which petition was disposed of on 
+14.10.2020 (Annexure-T), in the background of petitioner 
+seeking permission to withdraw the petition and to 
+approach the Project Management Committee in terms of 
+Clause-1.15(a) of the Master Service Agreement dated 
+28.02.2014. It is thereafter, appellant submitted its claim 
+before the Project Management Committee seeking for 
+resolving the dispute between the appellant and the 
+respondents 
+arising 
+out 
+of 
+the 
+agreement 
+dated 
+28.02.2014 and same is said to be pending. During 
+pendency 
+of 
+these 
+proceedings 
+before 
+the 
+Project 
+Management Committee, a petition under Section 9 of the 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+Arbitration Act was filed for the reliefs noted hereinabove 
+came to be filed by appellant. Said application was resisted 
+to by the respondents by filing a detailed statement of 
+objections and learned trial Judge by impugned order has 
+dismissed the application on the ground that appellant has 
+a remedy to seek for award of damages and as such, issue 
+relating to termination of contract cannot be adjudicated in 
+a proceeding under Section 9 of the Arbitration Act and it 
+would be an issue well within the domain of Arbitral 
+Tribunal. 
+Hence, 
+Commercial 
+Court 
+dismissed 
+the 
+application.  Hence, this appeal.   
+ 
+5. It is the contention of Sri Unnikrishnan M., learned 
+counsel appearing for appellant that trial Court committed 
+a serious error in dismissing the application without 
+considering the fact that petitioner and respondents are 
+partners in a venture and clauses in the agreement dated 
+28.02.2014 would clearly support appellant’s case and as 
+such, 
+tribunal 
+was 
+not 
+justified 
+in 
+dismissing 
+the 
+application.  He would also draw the attention of the Court 
+ 
+ 
+ 
+ 
+8 
+ 
+ 
+to the judgment of the Apex Court in the case of Adhunik 
+Steels Ltd. v. Orissa Manganese and Minerals Pvt. 
+Ltd. reported in AIR 2007 SC 2563 to buttress his 
+arguments and in support of his submissions.   
+ 
+6. Having heard the learned counsel appearing for 
+appellant, we are of the considered view that there is no 
+need or necessity to issue notice on this appeal, since 
+order passed by the learned trial Judge is well considered 
+and contentions of the appellant which has been urged 
+herein has also been considered in a proper perspective 
+keeping in mind the authoritative pronouncements of the 
+Apex Court and as such, it has rightly dismissed the 
+petition and for the reasons indicated hereinbelow, it would 
+not call for our interference: 
+ 
+7.  There is no dispute to the fact that agreement 
+dated 28.02.2014 was entered into between appellant and 
+respondents which was pursuant to a tender floated by 
+first respondent which was on account of two tier system 
+followed by first respondent was changed to three tier 
+ 
+ 
+ 
+ 
+9 
+ 
+ 
+system which also underwent change and was reverted 
+back to two tier system of management.  In order to 
+facilitate the collection of bus fares, a system was 
+introduced to issue smart card to passengers/traveling 
+public. It was this software and issue of such smart cards 
+which was required to be provided by the petitioner and 
+for implementation of the work as provided in the tender 
+notification issued in this regard, appellant was said to 
+have been selected on the basis of tender notification. In 
+the statement of objections which has been filed in detail 
+before the trial Court, the reasons for terminating the 
+contract of appellant has been indicated.  The learned trial 
+Judge 
+has 
+also 
+noticed 
+that 
+there 
+were 
+several 
+correspondences which took place between the parties 
+including e-mails which ultimately culminated in issuance 
+of a show-cause notice on 19.07.2019 whereunder it was 
+alleged that appellant had failed to deliver Smart Card 
+Based Fare Collection System Project as per the agreement 
+and not being satisfied with the reply submitted by the 
+appellant, the contract came to be terminated on 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+22.08.2019. On 17.09.2019, the appellant has invoked 
+Clause-1.15 of the Master Service Agreement and on 
+11.11.2019, respondent has sent a communication to the 
+appellant calling upon the appellant to refund the amount 
+that has been topped up by the commuters to the card if 
+any and has also called upon the appellant to furnish all 
+the data regarding the number of smart cards that are in 
+circulation 
+and 
+the 
+details 
+of 
+top-up 
+amount. 
+On 
+termination of contract, the respondent has also requested 
+the appellant to refrain in future from issuing any cards 
+upon which BMTC Logo is embossed and to return unused 
+cards. In fact, the Bank guarantee furnished by the 
+appellant has also been forfeited on 21/24.12.2019.  
+ 
+8.  The fact remains that Master Service Agreement 
+was terminated by the respondent on 22.08.2019. The 
+issue relating to termination of agreement as rightly 
+observed by the learned trial Judge would not be in the 
+scope of proceedings under Section 9 of the Arbitration Act 
+and any misadventure made by the learned Judge in that 
+ 
+ 
+ 
+ 
+11 
+ 
+ 
+regard would have definitely prejudiced the rights of the 
+parties and rightly so, learned trial Judge has not taken to 
+said course.  On the other hand, it has opined that it can 
+only be decided by the Arbitral Tribunal and even if the 
+termination is held to be erroneous in law in the arbitral 
+proceedings, the appellant would have adequate remedy of 
+claiming damages. It would be apt and appropriate to 
+notice observation made by the learned trial Judge in this 
+regard and it reads as under: 
+“30.  So far as the contentions of the learned 
+Advocate 
+for 
+the 
+petitioner 
+that 
+the 
+Respondents terminated the contract without 
+considering the Replies given by the Petitioner 
+to Notice and that the question whether the 
+contract has been illegally terminated or not 
+can only be decided by the Arbitral Tribunal 
+and is not in the domain of this Court.  Even if 
+the termination is ultimately held to be bad in 
+law, in the Arbitration Proceedings before the 
+Tribunal, 
+the 
+petitioner 
+would 
+have 
+an 
+adequate remedy of claiming damages.  As far 
+as the arguments of the Respondent that the 
+petitioner is guilty of the breach of the 
+ 
+ 
+ 
+ 
+12 
+ 
+ 
+conditions of the contract, suffice would it be 
+to state that this question would be decided by 
+the 
+Arbitral 
+Tribunal 
+or 
+the 
+Project 
+Management Committee as per Clasue-1.15(a) 
+of the Master Service Agreement, as and when 
+constitution, while deciding the question of 
+legality or otherwise of the termination of the 
+contract.  Therefore, it is clear that in law, 
+once termination of contract takes effect the 
+operation of the said termination and the 
+taking further actions cannot be stayed by an 
+interim injunction.  Therefore, I answer this 
+Point in the “Negative”.” 
+ 
+9. Though a prayer was made by the appellant 
+before the trial Court to injunct BMTC from appointing any 
+financial institution or any service provider for Smart Card 
+Based Fare Collection System Project till an Arbitrator is 
+appointed and to direct the respondents for continuation of 
+use of smart cards by the customers of the petitioner on 
+the premise that termination has not taken place,  the 
+learned trial Judge has rightly refused to grant the said 
+ 
+ 
+ 
+ 
+13 
+ 
+ 
+prayer on the ground that after termination takes place, 
+such injunctive reliefs cannot be granted.  
+ 
+10.  Clause (h) of Section 41 of the Specific Relief 
+Act, 1963 would clearly bar an injunction being granted 
+namely, where equally efficacious relief can certainly be 
+obtained by any other usual mode of proceeding except in 
+case of breach of trust. Thus, where the appellant is 
+entitled to claim damages for termination, grant of relief of 
+perpetual injunction would not arise. As regards, direction 
+sought to the respondent to give Bank guarantee amount 
+of Rs.75,00,000/- in a Fixed Deposit, the learned trial 
+Judge has taken note of the well recognized law with 
+regard to grant of injunction in case of an unconditional 
+Bank Guarantee by relying upon decisions of the Apex 
+Court in the cases of U.P.State Sugar Corpn. Vs. Suman 
+International Ltd. reported in AIR 1997 SC 1644 and 
+Dwarikesh Sugar Industries Ltd. vs. Prem Heavy 
+Engineering Works (P) Ltd. reported in AIR 1997 SC 
+2477 whereunder it has been held that exceptional case 
+ 
+ 
+ 
+ 
+14 
+ 
+ 
+wherein injunction can be granted is where it is proved 
+that bank knows that any demand for payment already 
+made or which may thereafter be made will clearly be 
+fraudulent or in other words, where the fraud has been 
+alleged and that too established fraud are extrinsic fraud 
+and even in case of intrinsic fraud, grant of injunction in 
+the matter of an unconditional Bank Guarantee would not 
+be called for. 
+ 
+11.  In fact, we may notice with benefit clause-1.17 
+of the agreement dated 28.02.2014 under the  head 
+‘Warranties’, appellant in unequivocal terms has stated 
+that in the event the Bank is unable to meet the 
+obligations 
+pursuant 
+to 
+the 
+implementation 
+of 
+the 
+assignment, operations and other services and any related 
+scope of works as stated in the agreement, the respondent 
+would have option to invoke the Security Deposit after 
+serving a written notice of 15 days on the appellant.   
+ 
+12.  It is this precise clause which has been invoked 
+by the respondent while issuing show-cause notice on 
+ 
+ 
+ 
+ 
+15 
+ 
+ 
+19.07.2020 and the termination order dated 22.08.2019.  
+It is thereafter, the performance Guarantee which had 
+been offered by the appellant has been invoked and 
+encashed.  As such, we are of the considered view that the 
+learned trial Judge has not committed any error either on 
+facts or in law calling for our interference.  Insofar as the 
+judgment of the Apex Court in the case of Adhunik Steels 
+Ltd. v. Orissa Manganese and Minerals Pvt. Ltd. 
+reported in AIR 2007 SC 2563, the Hon’ble Apex Court 
+itself noticed that grant of an interim prohibitory injunction 
+or an interim mandatory injunction are governed by well 
+known rules and relevant provisions of Specific Relief Act 
+cannot be kept out of consideration. In the instant case, 
+we have noticed that by virtue of Section 41 of the Specific 
+Relief Act, appellant is having an alternative and 
+efficacious remedy to seek for award of damages if being 
+able to prove and establish the termination of agreement 
+was illegal and as such, the question of granting any 
+interim injunction on the ground that petitioner and 
+respondent were partners in the venture of providing 
+ 
+ 
+ 
+ 
+16 
+ 
+ 
+smart cards does not arise. The appellant was selected by 
+the respondent by virtue of tender floated and as such 
+there existed privity of contract between the parties under 
+the 
+agreement 
+dated 
+28.02.2014. 
+According 
+to 
+respondent, it has stood terminated by virtue of the 
+termination notice dated 28.02.2019 and issue regarding 
+whether it is valid termination or would not be in the 
+domain of Arbitral Tribunal and as such, question of 
+examining the said aspect or expressing any opinion in this 
+regard would definitely prejudice the rights of the parties. 
+Hence, we are of the view that finding recorded by the 
+learned trial Judge to the effect that validity of termination 
+cannot be gone into in a proceeding under Section 9 of the 
+Arbitration Act is a well reasoned order which would not 
+call for any interference.   
+ 
+For the reasons aforestated, we proceed to pass the 
+following: 
+ORDER 
+(i) 
+Appeal is dismissed; 
+ 
+ 
+ 
+ 
+17 
+ 
+ 
+(ii) 
+The order dated 30.06.2021 passed in 
+Com.AA.No.6/2020 by LXXXII Additional 
+City Civil and Sessions Judge, Bengaluru, 
+stands affirmed. 
+ 
+In view of writ appeal having been dismissed, 
+IA.No.1/2021 for temporary injunction does not survive for 
+consideration and it stands consigned to record. 
+ 
+ 
+ 
+      
+ 
+ 
+ 
+ 
+        
+Sd/- 
+ 
+   
+ 
+ 
+ 
+ 
+       JUDGE 
+ 
+ 
+     
+ 
+ 
+ 
+                            
+ Sd/- 
+                JUDGE 
+ 
+LB 

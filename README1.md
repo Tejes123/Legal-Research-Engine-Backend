@@ -1,6 +1,3 @@
-# Legal-Research-Engine-Backend
-Backend for the legal research engine
-
 ### Ingestion
 First we need to extract the text present in each document, followed by chunking, and storing in the elastic search database.
 
